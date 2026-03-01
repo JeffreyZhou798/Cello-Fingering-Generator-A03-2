@@ -1,4 +1,3 @@
-~~~markdown
 # 🎻 Cello Fingering Generator - Complete Edition with Thumb Position
 
 An AI-powered cello fingering generation system using **complete Dyna-Q reinforcement learning algorithm** with **full thumb position support**. Upload MusicXML files and get optimal fingering suggestions - **runs entirely in your browser!**
@@ -562,5 +561,6 @@ http://localhost:3000
 This repository and its contents are protected by copyright law. No part of this project may be copied, reproduced, modified, or distributed without prior written permission from the author.
 
 **Commercial use is strictly prohibited.**
+
 
 *Built with ❤️ for music education* ```
