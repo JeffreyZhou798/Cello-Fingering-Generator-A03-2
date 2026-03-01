@@ -49,7 +49,7 @@ An AI-powered cello fingering generation system using **complete Dyna-Q reinforc
 
 ### 🎵 Live Demo
 
-**Local Development**: http://localhost:3000
+**Try It Now**: https://cello-fingering-generator-a03-2.vercel.app/
 
 ### 🧠 Algorithm Details
 
@@ -471,7 +471,7 @@ http://localhost:3000
 ## 🔗 Links
 
 - **🚀 Main Application**: [http://localhost:3000](http://localhost:3000/)
-- **GitHub Repository**: [Your Repository URL]
+- **GitHub Repository**: [https://github.com/JeffreyZhou798/Cello-Fingering-Generator-A03-2]
 
 ## 🧪 Testing Instructions
 
@@ -564,3 +564,4 @@ This repository and its contents are protected by copyright law. No part of this
 
 
 *Built with ❤️ for music education* ```
+
