@@ -554,6 +554,12 @@ http://localhost:3000
 
 ------
 
+## License
+
+MIT License - See [LICENSE](../LICENSE) for details.
+
+---
+
 ## ⚠️ Copyright Notice
 
 © 2026 Jeffrey Zhou. All rights reserved.
