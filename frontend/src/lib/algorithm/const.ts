@@ -10,7 +10,7 @@ export const PENALTY = {
 
 export const OPEN_STRING_PITCHES = [57, 50, 43, 36]; // A3, D3, G2, C2
 
-export const POSITION_COUNT = 40;
+export const POSITION_COUNT = 25;  // Realistic fingerboard end: covers repertoire max (Haydn A5 = A-string pos 24); was 40 (theoretical)
 export const STRING_COUNT = 4;
 export const FINGER_COUNT = 6;  // 0-5 (0=open, 1-4=fingers, 5=thumb)
 export const THUMB_POSITION_THRESHOLD = 6;  // Thumb can be used at position ≥6
