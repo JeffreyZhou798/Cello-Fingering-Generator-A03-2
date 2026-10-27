@@ -122,14 +122,8 @@ function addFingeringToXML(musicXML: any, fingering: Action[]): void {
             }
             
             // Add fingering (finger number)
-            // For cello thumb (finger 5), some notation systems use "0" or "T"
-            // We'll use the numeric value but MuseScore may display it differently
-            let fingeringValue = action.finger.toString();
-            
-            // Alternative: Use "0" for thumb in cello notation
-            // if (action.finger === 5) {
-            //   fingeringValue = "0";  // Thumb as "0" in some cello notation
-            // }
+            // Finger 5 = thumb: use traditional circle notation (U+25CB)
+            const fingeringValue = action.finger === 5 ? '○' : action.finger.toString();
             
             noteElement.notations[0].technical[0].fingering = [
               { _: fingeringValue, $: { placement: 'above' } }
